@@ -1,12 +1,10 @@
-Hi 👋 My name is Htut Aung Wai
-==============================
+# Hi 👋 My name is Htut Aung Wai
 
-Web developer and Designer
---------------------------
+## Web developer and Designer
 
-* 🌍  I'm based in Nay Pyi Daw
-* ✉️  You can contact me at [defo19987@gmail.com](mailto:defo19987@gmail.com)
-* 🧠  I'm learning Next.js and Node.Js
+- 🌍  I'm based in Nay Pyi Daw
+- ✉️  You can contact me at [defo19987@gmail.com](mailto:defo19987@gmail.com)
+- 🧠  I'm learning Next.js and Node.Js
 
 ### Skills
 
@@ -27,7 +25,6 @@ Web developer and Designer
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>
 <a href="adobe.com/uk/products/illustrator.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/illustrator-colored.svg" width="36" height="36" alt="Illustrator" /></a>
 </p>
-
 
 ### Socials
 
