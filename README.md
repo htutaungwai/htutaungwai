@@ -2,7 +2,7 @@ Hola, My name is Htut Aung Wai...
 
 j## Web developer and Designer
 
-- 🌍 🇲🇲  I'm based in Nay Pyi Daw
+- 🌍  I'm based in Nay Pyi Daw <a href="https://en.wikipedia.org/wiki/Naypyidaw" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Flag_of_Myanmar.svg/250px-Flag_of_Myanmar.svg.png" width="20" height="20" alt="myanmar"/></a>
 - ✉️  You can contact me at [defo19987@gmail.com](mailto:defo19987@gmail.com)
 - 🧠  I'm currently learning Next.js and Node.Js
 
