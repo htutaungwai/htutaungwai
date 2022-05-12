@@ -33,7 +33,7 @@ Hola, My name is Htut Aung Wai...
 <p align="left">
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="Javascript" /></a>
  
- <a href="https://www.java.com/en/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/en/thumb/3/30/Java_programming_language_logo.svg/351px-Java_programming_language_logo.svg.png?20210624193855" width="36" height="36" alt="Java" /></a>
+ <a href="https://www.java.com/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="36" height="36" alt="Java" /></a>
   </p>
 
 ### Additionals
