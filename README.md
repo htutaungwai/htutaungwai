@@ -3,7 +3,6 @@ Hola, My name is Htut Aung Wai...
 ### Web developer and Designer
 
 - 🌍  I'm based in Nay Pyi Daw <a href="https://en.wikipedia.org/wiki/Naypyidaw" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Flag_of_Myanmar.svg/250px-Flag_of_Myanmar.svg.png" width="15" height="auto" alt="myanmar"/></a>
-- ✉️  You can contact me at [htutaungway@gmail.com](mailto:htutaungway@gmail.com)
 - 🧠  I'm currently learning Next.js and Node.Js
 
 ### Frontend
